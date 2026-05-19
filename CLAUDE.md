@@ -178,8 +178,8 @@ There are no tests in this project. The standard build command skips them: `./gr
 | Kotlin | 2.3.21 |
 | KSP | 2.3.8 (independent versioning from Kotlin as of 2.3.x) |
 | Compose Multiplatform | 1.11.0 (dropped `iosX64` / Intel iOS simulator in this release) |
-| Ktor | 3.3.3 |
-| Exposed | 1.1.1 |
+| Ktor | 3.5.0 |
+| Exposed | 1.3.0 |
 | AGP | 9.0.1 |
 
 ## Wasm output

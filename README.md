@@ -11,8 +11,8 @@ A `CLAUDE.md` file is included for AI-assisted development. If you're using Clau
 | Layer | Technology |
 |---|---|
 | Frontend | Kotlin/Wasm + Compose Multiplatform 1.11.0 |
-| Server | Ktor 3.3.3 (Netty) |
-| Database | Exposed 1.1.1 + SQLite |
+| Server | Ktor 3.5.0 (Netty) |
+| Database | Exposed 1.3.0 + SQLite |
 | HTTP client | Ktorfit 2.7.3 (KSP-generated from annotated interface) |
 | Serialization | kotlinx.serialization 1.11.0 |
 | Kotlin | 2.3.21 |
