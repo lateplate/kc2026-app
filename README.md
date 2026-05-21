@@ -1,6 +1,6 @@
 # KotlinConf 2026 Todo App
 
-A full-stack Kotlin todo app spanning browser (Kotlin/Wasm + Compose Multiplatform), server (Ktor), and database (Exposed + SQLite). Built as the companion app for Dan Kim's KotlinConf 2026 talk, *"Finally Full-Stack Kotlin: Building a Real App with Wasm, Compose, Ktor, and Exposed"*.
+A full-stack Kotlin todo app spanning browser (Kotlin/Wasm + Compose Multiplatform), server (Ktor), and database (Exposed + SQLite). Built as the companion app for Dan Kim's KotlinConf 2026 talk, *"Kotlin/Wasm – Finally, the missing piece for a full stack Kotlin webapp!"*.
 
 The app is intentionally straightforward — a todo list with CRUD — so the stack, not the domain logic, is what's interesting.
 
